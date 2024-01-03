@@ -1,9 +1,36 @@
 ## OLMS
 Online Library Management System
 This is a simple Online-Library-Management-System for library Administrators and Users
+### About the Project
+The Project was developed using PHP, JavaScript, and CSS. This Website Project contains an Admin and User side.<br/>
+The Admin side manages all the management like adding and managing categories, authors, books, issued books, and so on. The admin has an important role in the management of this online library system.<br/>
+This Online Library Management System has two modules
+-- Admin Module 
+-- User Module
 
+#### For Admin Module Features:
+
+    Admin Dashboard
+    Can manage category
+    Manage author
+    Book Management
+    Admin can issue a new book to a student
+    Update the details when the student returns the book
+    Search students by using their student ID
+    View student details
+    Change own passwordEzoic
+
+For Students Module Features:
+
+    Register yourself and after registration; they will get student id
+    Students can view the dashboard,
+    Update personal profile,
+    View issued book and book return date-time.
+    Change their password, and
+    Recover personal password.
 ### Requirements
-Download and install Wamp Server from this link https://www.wampserver.com/en/ 
+Download and install Wamp Server from this link https://www.wampserver.com/en/ <br/>
+make sure that you have sublime IDE or any platform of PHP and MySQL installed on your computer.
 
 ### Instructions: How to Run?
 These are the steps on how to run an Online Library Management System
