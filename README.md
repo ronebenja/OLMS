@@ -14,16 +14,16 @@ User Module
     Can manage category
     Manage author
     Book Management
-    Admin can issue a new book to a student
-    Update the details when the student returns the book
-    Search students by using their student ID
-    View student details
-    Change own passwordEzoic
+    Admin can issue a new book to a User
+    Update the details when the User returns the book
+    Search Users by using their User ID
+    View User details
+    Change own password
 
 #### For User Module Features:
 
-    Register yourself and after registration; they will get student id
-    Students can view the dashboard,
+    Register yourself and after registration; they will get User id
+    Users can view the dashboard,
     Update personal profile,
     View issued book and book return date-time.
     Change their password, and
