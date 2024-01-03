@@ -28,7 +28,9 @@ Eight, Open a browser and go to URL “http://localhost/library/”.
 
 ### Admin Panel 
 Open Your the application on the browser and select Admin login from the Main Menu<br/>
- Username : admin Password : Test@123
+ Username : admin<br/> 
+ Password : Test@123
 ### User Panel
 Open Your the application on the browser and select User login from the Main Menu.<br/>
-Username : kato@kato.com Password : kato
+Username : kato@kato.com<br/> 
+Password : kato
