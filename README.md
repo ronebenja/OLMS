@@ -1,10 +1,15 @@
 ## OLMS
+
 Online Library Management System
-This is a simple Online-Library-Management-System for library Administrators and Users
+This is a simple Online-Library-Management-System for library Administrators and Users<br/>
+The Online Library Management System is important because It enhances the efficiency of librarians and library users<br/>
+It is also easy for the librarians to catalog the books and keep proper records of books issued, reissued, and not returned.<br/>
+Furthermore, library users can easily find the availability of any book Which one they need.
+
 ### About the Project
 The Project was developed using PHP, JavaScript, and CSS. This Website Project contains an Admin and User side.<br/>
 The Admin side manages all the management like adding and managing categories, authors, books, issued books, and so on. The admin has an important role in the management of this online library system.<br/>
-This Online Library Management System has two modules<br/>
+This Online Library Management System has two modules<br/><br/>
 Admin Module <br/>
 User Module
 
