@@ -1,6 +1,7 @@
 ## OLMS
+### Introduction
 
-Online Library Management System
+#### Online Library Management System
 This is a simple Online-Library-Management-System for library Administrators and Users<br/>
 The Online Library Management System is important because It enhances the efficiency of librarians and library users<br/>
 It is also easy for the librarians to catalog the books and keep proper records of books issued, reissued, and not returned.<br/>
