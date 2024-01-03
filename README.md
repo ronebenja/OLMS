@@ -23,3 +23,12 @@ Sixth, click on the databases tab and Create a database named “library”.
 Seventh, Click on browse file and select “library.sql” file which is inside the “database” folder, and after import click “go“.
 ### Step 8: Open the browser and type the folder name.
 Eight, Open a browser and go to URL “http://localhost/library/”.
+
+## For Test Purpose Login Details for user :
+
+### Admin Panel 
+Open Your the application on the browser and select Admin login from the Main Menu
+Username : admin Password : Test@123
+### User Panel
+Open Your the application on the browser and select User login from the Main Menu
+Username : kato@kato.com Password : kato
