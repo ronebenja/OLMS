@@ -2,7 +2,7 @@
 Online Library Management System
 This is a simple Online-Library-Management-System for library Administrators and Users
 
-# Requirements
+## Requirements
 Download and install Wamp Server from this link https://www.wampserver.com/en/ 
 
 # Instructions: How to Run?
