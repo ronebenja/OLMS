@@ -4,9 +4,9 @@ This is a simple Online-Library-Management-System for library Administrators and
 ### About the Project
 The Project was developed using PHP, JavaScript, and CSS. This Website Project contains an Admin and User side.<br/>
 The Admin side manages all the management like adding and managing categories, authors, books, issued books, and so on. The admin has an important role in the management of this online library system.<br/>
-This Online Library Management System has two modules
--- Admin Module 
--- User Module
+This Online Library Management System has two modules<br/>
+Admin Module <br/>
+User Module
 
 #### For Admin Module Features:
 
@@ -20,7 +20,7 @@ This Online Library Management System has two modules
     View student details
     Change own passwordEzoic
 
-For Students Module Features:
+#### For User Module Features:
 
     Register yourself and after registration; they will get student id
     Students can view the dashboard,
