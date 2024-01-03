@@ -5,11 +5,11 @@ This is a simple Online-Library-Management-System for library Administrators and
 ## Requirements
 Download and install Wamp Server from this link https://www.wampserver.com/en/ 
 
-# Instructions: How to Run?
+## Instructions: How to Run?
 These are the steps on how to run an Online Library Management System
-# Step 1: Download the source code. 
+** Step 1: Download the source code. 
 First, download the source code given below in this repository.
-# Step 2: Extract file.
+** Step 2: Extract file.
 Second, after you finish downloading the source code, extract the zip file.
 # Step 3: Copy the project folder.
 Third, copy the extrtacted folder and paste it into your Wamp/wwww respository.
