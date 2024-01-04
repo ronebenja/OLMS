@@ -35,8 +35,8 @@ User Module
     Change their password, and
     Recover personal password.
 ### Requirements
-Download and install Wamp Server from this link https://www.wampserver.com/en/ <br/>
-make sure that you have sublime IDE or any platform of PHP version 7.4.33 and MySQL Apache 2.4.54 installed on your computer.<br/>
+1. Download and install Wamp Server from this link https://www.wampserver.com/en/ <br/>
+2. Make sure that you have sublime IDE or any platform of PHP version 7.4.33 and MySQL Apache 2.4.54 installed on your computer.<br/>
 
 ### Instructions: How to Run?
 These are the steps on how to run an Online Library Management System
